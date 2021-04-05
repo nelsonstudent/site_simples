@@ -1,0 +1,85 @@
+
+body{
+    font:italic, arial, 40px;
+    background-color: #CACFD2;
+}
+.navbar{
+    background-color: #CACFD2;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.letterquemsomos{
+    font-weight: bold;
+    font-size:larger;
+    text-align: left;
+ 
+}
+
+.margin{
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.parceiros{
+    background-color: #CACFD2;
+    padding-right: 100px;
+    
+}
+
+.produtos{
+    background-color: #CACFD2;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+
+.imgdeadpool{
+    width: 270px;
+    height: 290px;
+    padding: inherit;
+}
+
+.imgbatman{
+    width: 270px;
+    height: 290px;
+    padding: inherit;
+}
+
+.imgdrestranho{
+    width: 270px;
+    height: 290px;
+    padding: inherit;
+}
+
+.imgpantera{
+    width: 270px;
+    height: 290px;
+    padding: inherit;
+    
+}
+
+.imgdc1{
+    padding: inherit;
+    width: 320px;
+    height: 190px;
+
+}
+
+.imgmarvel{
+    padding: inherit;
+    width: 320px;
+    height: 190px;
+
+}
+
+.imgccxp{
+    padding: inherit;
+    width: 320px;
+    height: 190px;
+
+}
